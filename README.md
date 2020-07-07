@@ -13,6 +13,11 @@ MongoDB adalah salah satu jenis database NoSQL yang berbasis dokumen dengan foma
 
 Pada database SQL, data disimpan dalam bentuk tabel. Sedangkan pada MongoDB data disimpan dalam bentuk dokumen dengan format JSON.
 
+## Third Party modules
+- <a href="https://deno.land/x/oak">Oak</a>
+- <a href="https://deno.land/x/mongo">Mongo</a>
+- <a href="https://deno.land/x/denon">Denon</a>
+
 ## Menjalankan Project
 ```
 denon start
